@@ -1,4 +1,4 @@
 FROM streamsets/datacollector
 MAINTAINER Mike Mester <micmeste@cisco.com>
 
-#Start basics
+#Start basics and more
